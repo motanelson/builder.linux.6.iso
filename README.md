@@ -1,1 +1,1 @@
-command menu
+cd live builder
